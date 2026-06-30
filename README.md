@@ -7,3 +7,5 @@
 🌟 Current Progress --> Day 1 🚀 -> Configured the core security setup by integrating Spring Security and JJWT dependencies, implementing BCrypt password hashing, and building the authentication endpoints to handle user registration and login token generation.
 
 Day 2 💾 -> Set up the core application framework by creating the primary `DemoApplication.java` bootstrap class, the `User.java` JPA entity to map table attributes, and the `UserRepository.java` data access interface.
+
+Day 3 -> Added Controller, Exception and Model files to handle user data fluently.
