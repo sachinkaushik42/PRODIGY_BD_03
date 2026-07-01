@@ -8,4 +8,4 @@
 
 Day 2 💾 -> Set up the core application framework by creating the primary `DemoApplication.java` bootstrap class, the `User.java` JPA entity to map table attributes, and the `UserRepository.java` data access interface.
 
-Day 3 -> Added Controller, Exception and Model files to handle user data fluently.
+Day 3 -> Added Controller, Exception and Model files to handle user data fluently. Also run whole system fluently on spring app.
